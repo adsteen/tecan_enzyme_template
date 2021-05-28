@@ -1,0 +1,43 @@
+Application: Tecan i-control,,,,"Tecan i-control , 2.0.10.0",,,,,,,,
+Device: infinite 200Pro,,,,Serial number: 2001011610,,,,Serial number of connected stacker:,,,,
+Firmware: V_5.31_04/18_InfiniteRX (Mar 28 2018/16.41.26),,,,"MAI, V_5.31_04/18_InfiniteRX (Mar 28 2018/16.41.26)",,,,,,,,
+,,,,,,,,,,,,
+Date:,3/23/21,,,,,,,,,,,
+Time:,12:33:02 PM,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+System,,,,DESKTOP-3SP6UST,,,,,,,,
+User,,,,DESKTOP-3SP6UST\Steenlab,,,,,,,,
+Plate,,,,Greiner 96 Flat Bottom Transparent Polystyrene Cat. No.: 655101/655161/655192 [GRE96ft.pdfx],,,,,,,,
+Plate-ID (Stacker),,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Label: Label1,,,,,,,,,,,,
+Mode,,,,Fluorescence Top Reading,,,,,,,,
+Excitation Wavelength,,,,341,nm,,,,,,,
+Emission Wavelength,,,,441,nm,,,,,,,
+Excitation Bandwidth,,,,9,nm,,,,,,,
+Emission Bandwidth,,,,20,nm,,,,,,,
+Gain,,,,50,Manual,,,,,,,
+Number of Flashes,,,,25,,,,,,,,
+Integration Time,,,,20,µs,,,,,,,
+Lag Time,,,,0,µs,,,,,,,
+Settle Time,,,,0,ms,,,,,,,
+Z-Position (Manual),,,,19950,µm,,,,,,,
+Start Time:,3/23/2021 12:33:04 PM,,,,,,,,,,,
+,,,,,,,,,,,,
+,Temperature: 23.2 ¡C,,,,,,,,,,,
+<>,1,2,3,4,5,6,7,8,9,10,11,12
+A,43,111,1865,409,361,705,2323,669,9030,9090,OVER,29890
+B,45,100,1748,351,379,665,2158,623,8061,7974,OVER,11325
+C,44,112,3678,399,321,583,2534,566,8891,7740,OVER,16363
+D,52,120,1916,439,404,760,9461,524,11524,11362,24,19
+E,46,121,2124,423,347,729,7547,657,11916,9994,23,25
+F,52,120,2095,440,351,752,8356,607,9818,9509,23,25
+G,67041,66846,66868,OVER,66914,OVER,67661,OVER,67117,67853,67217,67349
+H,54958,56115,55784,54787,54724,54907,54121,54592,56076,55939,55957,56169
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+End Time:,3/23/2021 12:34:21 PM,,,,,,,,,,,

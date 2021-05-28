@@ -1,0 +1,44 @@
+Application: Tecan i-control,,,,"Tecan i-control , 2.0.10.0",,,,,,,,
+Device: infinite 200Pro,,,,Serial number: 2001011610,,,,Serial number of connected stacker:,,,,
+Firmware: V_5.31_04/18_InfiniteRX (Mar 28 2018/16.41.26),,,,"MAI, V_5.31_04/18_InfiniteRX (Mar 28 2018/16.41.26)",,,,,,,,
+,,,,,,,,,,,,
+Date:,3/23/21,,,,,,,,,,,
+Time:,4:59:26 AM,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+System,,,,DESKTOP-3SP6UST,,,,,,,,
+User,,,,DESKTOP-3SP6UST\Steenlab,,,,,,,,
+Plate,,,,Greiner 96 Flat Bottom Transparent Polystyrene Cat. No.: 655101/655161/655192 [GRE96ft.pdfx],,,,,,,,
+Plate-ID (Stacker),,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Label: Label1,,,,,,,,,,,,
+Mode,,,,Fluorescence Top Reading,,,,,,,,
+Excitation Wavelength,,,,341,nm,,,,,,,
+Emission Wavelength,,,,441,nm,,,,,,,
+Excitation Bandwidth,,,,9,nm,,,,,,,
+Emission Bandwidth,,,,20,nm,,,,,,,
+Gain,,,,50,Manual,,,,,,,
+Number of Flashes,,,,25,,,,,,,,
+Integration Time,,,,20,µs,,,,,,,
+Lag Time,,,,0,µs,,,,,,,
+Settle Time,,,,0,ms,,,,,,,
+Z-Position (Manual),,,,19950,µm,,,,,,,
+Start Time:,3/23/2021 4:59:28 AM,,,,,,,,,,,
+,,,,,,,,,,,,
+Error:,"Command: ""CHECK MTP.STEPLOSS""  Returned answer: ""ERR044: Y-Trans at module MTP lost steps abs(8)>3""  ",,,,,,,,,,,
+,Temperature: 22.4 ¡C,,,,,,,,,,,
+<>,1,2,3,4,5,6,7,8,9,10,11,12
+A,34,87,2022,370,271,651,1066,542,3721,3676,OVER,11154
+B,38,66,1749,351,264,669,948,492,3431,3772,OVER,12900
+C,33,87,3608,358,252,609,975,501,2939,2090,67032,12726
+D,45,93,1658,309,294,659,9654,388,9481,10513,6,5
+E,38,93,1741,356,259,673,7352,544,10442,8862,5,5
+F,40,92,2041,356,237,593,7713,496,7866,8516,6,6
+G,67196,67289,67254,67276,67332,67723,67714,67348,67494,67549,67819,67383
+H,56345,57241,57174,57649,57707,57842,58068,57529,57145,57723,58058,57730
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+End Time:,3/23/2021 5:00:46 AM,,,,,,,,,,,
