@@ -12,5 +12,8 @@
 ####
 library(tidyverse)
 
-# 
+# The first task here is to:
+# 1. Define the directory that all the files are in
+# 2. Create a vector of all teh .csv files, using ls( , pattern=".csv")
+# 3. Use the purrr package (in tidyverse) to read all those files into R
 
